@@ -1,0 +1,5 @@
+Metric,Count
+Total Checks,20
+PASS Checks,11
+FAIL Checks,5
+INFO Checks,4

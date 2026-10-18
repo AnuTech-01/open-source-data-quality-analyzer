@@ -1,0 +1,8 @@
+Metric,Result
+Missing Values,0.0
+Duplicate Rows,0.0
+Invalid Quantities,0.0
+Invalid Prices,0.0
+Passed Checks,4.0
+Total Checks,4.0
+Quality Score (%),100.0
