@@ -1,0 +1,4 @@
+Check,Status,Details
+Required Columns,PASS,All required columns available
+quantity Data Type,PASS,0 invalid value(s)
+price Data Type,PASS,0 invalid value(s)
