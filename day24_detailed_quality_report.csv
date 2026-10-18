@@ -1,0 +1,5 @@
+Quality Issue,Count,Status
+Missing Values,1,FAIL
+Duplicate Rows,0,PASS
+Invalid Quantities,1,FAIL
+Invalid Prices,0,PASS
