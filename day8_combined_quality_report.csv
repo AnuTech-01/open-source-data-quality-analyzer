@@ -1,0 +1,11 @@
+File Name,Check,Result,Status
+sales_cleaned_day3.csv,Total Records,5,INFO
+sales_cleaned_day3.csv,Missing Values,0,PASS
+sales_cleaned_day3.csv,Duplicate Rows,0,PASS
+sales_cleaned_day3.csv,Invalid Quantities,0,PASS
+sales_cleaned_day3.csv,Invalid Prices,0,PASS
+sample_sales_2.csv,Total Records,4,INFO
+sample_sales_2.csv,Missing Values,1,FAIL
+sample_sales_2.csv,Duplicate Rows,0,PASS
+sample_sales_2.csv,Invalid Quantities,1,FAIL
+sample_sales_2.csv,Invalid Prices,0,PASS

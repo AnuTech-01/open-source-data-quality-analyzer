@@ -1,0 +1,7 @@
+Check,Result,Status
+Total Records,5,INFO
+Total Columns,5,INFO
+Missing Values,0,PASS
+Duplicate Rows,0,PASS
+Invalid Quantities,0,PASS
+Invalid Prices,0,PASS
