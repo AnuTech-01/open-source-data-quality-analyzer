@@ -1,0 +1,5 @@
+Issue,Count,Status,Recommended Action
+Missing Values,1,Issue Found,Fill or remove missing values
+Duplicate Rows,0,Clean,Review and remove duplicate records
+Invalid Quantities,1,Issue Found,Check zero or negative quantities
+Invalid Prices,0,Clean,Check zero or negative prices

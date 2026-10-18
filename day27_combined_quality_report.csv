@@ -1,0 +1,11 @@
+Dataset,Check,Result,Status
+day26_cleaned_sales.csv,Total Records,3,INFO
+day26_cleaned_sales.csv,Missing Values,0,PASS
+day26_cleaned_sales.csv,Duplicate Rows,0,PASS
+day26_cleaned_sales.csv,Invalid Quantities,0,PASS
+day26_cleaned_sales.csv,Invalid Prices,0,PASS
+sample_sales_2.csv,Total Records,4,INFO
+sample_sales_2.csv,Missing Values,1,FAIL
+sample_sales_2.csv,Duplicate Rows,0,PASS
+sample_sales_2.csv,Invalid Quantities,1,FAIL
+sample_sales_2.csv,Invalid Prices,0,PASS
