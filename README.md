@@ -1,45 +1,98 @@
-
 # Open Source Data Quality Analyzer
 
-## Project Overview
-A Python-based tool that analyzes CSV files and identifies common data quality issues.
+A Python-based data quality analysis project that helps identify missing values, duplicate records, and potential data issues in CSV datasets.
+
+## Overview
+
+Data quality is an important part of data analysis. This project helps analyze CSV files and generate a quality report to make data cleaning easier and more systematic.
 
 ## Features
-- Detects missing values
-- Identifies duplicate rows
-- Detects invalid quantities and prices
-- Validates required columns
-- Generates a data quality report in CSV format
-- Handles missing files and errors
+
+- Analyze CSV datasets
+- Identify missing values
+- Detect duplicate records
+- Generate data quality reports
+- Support custom CSV file input
+- Handle invalid file paths with useful error messages
 
 ## Technologies Used
+
 - Python
 - Pandas
+- CSV data processing
 - Jupyter Notebook
 
+## Project Structure
 
-## Project Files
+- `main_analyzer.py` — Main analyzer script
+- `day31_main_analyzer.ipynb` — Notebook for development and testing
+- `README.md` — Project documentation
+- Sample CSV files — Used for testing the analyzer
 
-- `main_analyzer.py` — Main Python analyzer script
-- `sample_sales.csv` — Sample sales dataset
-- `sample_sales_2.csv` — Second sample dataset
-- `day31_quality_report.csv` — Generated data quality report
-- `day31_main_analyzer.ipynb` — Jupyter notebook for testing
+*Note: The file structure may vary as the project develops.*
+
+## Getting Started
+
+### 1. Clone the repository
+
+```bash
+git clone https://github.com/AnuTech-01/open-source-data-quality-analyzer.git
+```
+
+### 2. Open the project folder
+
+```bash
+cd open-source-data-quality-analyzer
+```
+
+### 3. Install the required library
+
+```bash
+pip install pandas
+```
+
+### 4. Run the analyzer
+
+```bash
+python main_analyzer.py
+```
+
+To analyze a specific CSV file:
+
+```bash
+python main_analyzer.py your_file.csv
+```
+
+Replace `your_file.csv` with the name of your CSV file.
+
+## Output
+
+The analyzer generates a data quality report as a CSV file. The report can be reviewed in Excel, Python, or other data analysis tools.
+
+## Learning Outcomes
+
+Through this project, I practiced:
+
+- Python-based data analysis
+- CSV file handling
+- Data quality validation
+- Error handling
+- Generating structured reports
+- Maintaining a project using Git and GitHub
 
 ## Future Improvements
 
-- Add more data validation rules
-- Create interactive visualizations
-- Support more CSV datasets
-
-
-## How to Run
-```bash
-python main_analyzer.py sample_sales_2.csv
-```
-
-## Output
-The analyzer displays a data quality report and saves it as `day31_quality_report.csv`.
+- Add more data quality checks
+- Build an interactive dashboard
+- Add visual summaries of data quality issues
+- Support more input formats
 
 ## Author
-Anu Jangid
+
+**Anu Jangid**
+
+GitHub: [AnuTech-01](https://github.com/AnuTech-01)
+
+---
+
+If you find this project useful, feel free to explore the repository and share feedback.
