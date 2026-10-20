@@ -92,7 +92,8 @@ Through this project, I practiced:
 **Anu Jangid**
 
 GitHub: [AnuTech-01](https://github.com/AnuTech-01)
-Linkedin: [https://www.linkedin.com/in/anu-jangid-726564328/]
+
+Linkedin: [anu-jangid](https://www.linkedin.com/in/anu-jangid-726564328/)
 
 ---
 
