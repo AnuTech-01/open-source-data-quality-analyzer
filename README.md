@@ -6,8 +6,6 @@ A Python-based data quality analysis project that helps identify missing values,
 
 Data quality is an important part of data analysis. This project helps analyze CSV files and generate a quality report to make data cleaning easier and more systematic.
 
-<img width="1366" height="724" alt="Day31_excel" src="https://github.com/user-attachments/assets/dcfcc70e-43ef-4a8a-8e0d-cb7e45f753f0" />
-
 ## Features
 
 - Analyze CSV datasets
@@ -94,6 +92,7 @@ Through this project, I practiced:
 **Anu Jangid**
 
 GitHub: [AnuTech-01](https://github.com/AnuTech-01)
+Linkedin: [https://www.linkedin.com/in/anu-jangid-726564328/]
 
 ---
 
